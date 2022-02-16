@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Quiz on continuous and discrete signal processing.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-161-signal-processing-continuous-and-discrete-fall-2008/9c5ea628cb00ecc710a8c4211663a94c_quiz1.pdf
+file: /media/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/9c5ea628cb00ecc710a8c4211663a94c_quiz1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 'Quiz #1'
 uid: 9c5ea628-cb00-ecc7-10a8-c4211663a94c

@@ -2,8 +2,12 @@
 content_type: resource
 description: Lecture handout on the derivation of the Laplace and Z transforms from
   the continuous-time and discrete-time Fourier transforms.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-161-signal-processing-continuous-and-discrete-fall-2008/4025be04d1c57967eed71b1fd4d49aa6_zlaplace.pdf
+file: /media/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/4025be04d1c57967eed71b1fd4d49aa6_zlaplace.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: Parallel Derivations of the Z and Laplace Transforms
 uid: 4025be04-d1c5-7967-eed7-1b1fd4d49aa6
