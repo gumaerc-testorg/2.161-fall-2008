@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1384b738-e0f5-a04c-f5ee-7fabd3121f27
 resourcetype: Document
 title: The Fast Fourier Transform
 uid: 2b3897bb-6474-3815-afae-1543066ed4ff

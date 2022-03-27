@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1384b738-e0f5-a04c-f5ee-7fabd3121f27
 resourcetype: Document
 title: MATLAB Examples of Least-Squares FIR Filter Design
 uid: 57e5ce8e-eddd-27d2-770a-b3ec30de9c01

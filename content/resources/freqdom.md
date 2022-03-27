@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1384b738-e0f5-a04c-f5ee-7fabd3121f27
 resourcetype: Document
 title: Introduction to Two-Dimensional/Image Processing
 uid: 7a85a7cc-3e9a-1b15-3290-fd91ae76a924

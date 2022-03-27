@@ -37,8 +37,8 @@ Data resampling: interpolation (up-sampling) and decimation (down-sampling) ([PD
 {{< tdopen >}}
 
 
-xinterp.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/xinterp.m))  
-dftupsample.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/dftupsample.m))
+xinterp.m ([M]({{< baseurl >}}/resources/xinterp))  
+dftupsample.m ([M]({{< baseurl >}}/resources/dftupsample))
 
 
 {{< tdclose >}}
@@ -103,9 +103,9 @@ Introduction to operational amplifiers ([PDF]({{< baseurl >}}/resources/lpopamp)
 Introduction to continuous time filter design ([PDF]({{< baseurl >}}/resources/lpfdesign))
 {{< tdclose >}}
 {{< tdopen >}}
-lpbutter.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/lpbutter.m))  
-lpcheby1.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/lpcheby1.m))  
-lpcheby2.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/lpcheby2.m))
+lpbutter.m ([M]({{< baseurl >}}/resources/lpbutter))  
+lpcheby1.m ([M]({{< baseurl >}}/resources/lpcheby1))  
+lpcheby2.m ([M]({{< baseurl >}}/resources/lpcheby2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,8 +132,8 @@ Sampling and the discrete Fourier transform ([PDF]({{< baseurl >}}/resources/sam
 The fast Fourier transform ([PDF]({{< baseurl >}}/resources/fft))
 {{< tdclose >}}
 {{< tdopen >}}
-fftx.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/fftx.m))  
-ifftx.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/ifftx.m))
+fftx.m ([M]({{< baseurl >}}/resources/fftx))  
+ifftx.m ([M]({{< baseurl >}}/resources/ifftx))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +151,7 @@ Parallel derivations of the z and Laplace transforms ([PDF]({{< baseurl >}}/reso
 Frequency-sampling FIR filters ([PDF]({{< baseurl >}}/resources/freqsampfilt))
 {{< tdclose >}}
 {{< tdopen >}}
-firfs.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/firfs.m))
+firfs.m ([M]({{< baseurl >}}/resources/firfs))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,11 +160,11 @@ firfs.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-
 Direct form digital filter structures ([PDF]({{< baseurl >}}/resources/filterstructure))
 {{< tdclose >}}
 {{< tdopen >}}
-firdf.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/firdf.m))  
-iirdf1.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/iirdf1.m))  
-iirdf2.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/iirdf2.m))  
-firtdf.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/firtdf.m))  
-iirtdf2.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/iirtdf2.m))
+firdf.m ([M]({{< baseurl >}}/resources/firdf))  
+iirdf1.m ([M]({{< baseurl >}}/resources/iirdf1))  
+iirdf2.m ([M]({{< baseurl >}}/resources/iirdf2))  
+firtdf.m ([M]({{< baseurl >}}/resources/firtdf))  
+iirtdf2.m ([M]({{< baseurl >}}/resources/iirtdf2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,7 +182,7 @@ Introduction to two-dimensional/image processing ([PDF - 1.5 MB]({{< baseurl >}}
 MATLAB examples of least-squares FIR filter design ([PDF]({{< baseurl >}}/resources/lsqfit))
 {{< tdclose >}}
 {{< tdopen >}}
-LSQFilt.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/LSQFilt.m))
+LSQFilt.m ([M]({{< baseurl >}}/resources/lsqfilt))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -191,7 +191,7 @@ LSQFilt.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuou
 Introduction to least-squares adaptive filters ([PDF]({{< baseurl >}}/resources/adaptivels))
 {{< tdclose >}}
 {{< tdopen >}}
-LSadapt.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/LSadapt.m))
+LSadapt.m ([M]({{< baseurl >}}/resources/lsadapt))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +200,7 @@ LSadapt.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuou
 Introduction to recursive-least-squares (RLS) adaptive filters ([PDF]({{< baseurl >}}/resources/rls))
 {{< tdclose >}}
 {{< tdopen >}}
-RLSFilt.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/study-materials/RLSFilt.m))
+RLSFilt.m ([M]({{< baseurl >}}/resources/rlsfilt))
 {{< tdclose >}}
 
 {{< trclose >}}

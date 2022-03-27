@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1384b738-e0f5-a04c-f5ee-7fabd3121f27
 resourcetype: Document
 title: Frequency-Sampling FIR Filters
 uid: 7e243f92-2113-bde8-caf1-8db32e31389e

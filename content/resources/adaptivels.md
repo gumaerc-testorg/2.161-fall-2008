@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1384b738-e0f5-a04c-f5ee-7fabd3121f27
 resourcetype: Document
 title: Introduction to Least-Squares Adaptive Filters
 uid: d500ebd9-32a8-0d44-17a1-ba42fe7f5429

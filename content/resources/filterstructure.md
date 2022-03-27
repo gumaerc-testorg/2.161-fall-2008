@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1384b738-e0f5-a04c-f5ee-7fabd3121f27
 resourcetype: Document
 title: Direct Form Digital Filter Structures
 uid: 77c0d8b0-7bce-5e73-9082-e7e0a5ad3a54

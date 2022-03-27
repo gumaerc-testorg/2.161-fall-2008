@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1384b738-e0f5-a04c-f5ee-7fabd3121f27
 resourcetype: Document
 title: Parallel Derivations of the Z and Laplace Transforms
 uid: 4025be04-d1c5-7967-eed7-1b1fd4d49aa6

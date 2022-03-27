@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1384b738-e0f5-a04c-f5ee-7fabd3121f27
 resourcetype: Document
 title: "Introduction to Operational Ampli\uFB01ers"
 uid: 21844e43-a79b-51a7-bf7f-34708d3026c7

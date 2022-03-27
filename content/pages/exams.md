@@ -25,5 +25,5 @@ Quiz 2 ([PDF]({{< baseurl >}}/resources/quiz2))
 
 Q2Prob2.mat ([MAT]({{< baseurl >}}/resources/q2prob2))  
 Q2Prob3.mat ([MAT]({{< baseurl >}}/resources/q2prob3))  
-Q2Prob4.mat ([MAT - 6.2 MB]({{< baseurl >}}/resources/q2prob4))  
-Q2Prob4.m ([M](/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/exams/Q2Prob4.m))
+Q2Prob4.mat ([MAT - 6.2 MB]({{< baseurl >}}/resources/q2prob4-1))  
+Q2Prob4.m ([M]({{< baseurl >}}/resources/q2prob4))

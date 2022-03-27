@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 828bc116-ed5e-7b49-6689-fed462c15038
 resourcetype: Document
 title: 'Solution of Problem Set 5: The Discrete Fourier Transform'
 uid: 25dabecb-6184-16d5-b9b9-1647cf6ab789

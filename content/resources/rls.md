@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1384b738-e0f5-a04c-f5ee-7fabd3121f27
 resourcetype: Document
 title: Introduction to Recursive-Least-Squares (RLS) Adaptive Filters
 uid: 0908e93c-b4f3-1eac-9150-b14c1ffdf328

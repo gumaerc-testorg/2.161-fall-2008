@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1384b738-e0f5-a04c-f5ee-7fabd3121f27
 resourcetype: Document
 title: Op-Amp Implementation of Analog Filters
 uid: cce7e9ec-e3e5-90e4-4b21-9324706e3de9

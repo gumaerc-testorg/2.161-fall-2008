@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1384b738-e0f5-a04c-f5ee-7fabd3121f27
 resourcetype: Document
 title: 'Data Resampling: Interpolation (Up-sampling) and Decimation (Down-sampling)'
 uid: d2497b9d-b2c0-33d1-979c-5ae711287414

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 828bc116-ed5e-7b49-6689-fed462c15038
 resourcetype: Document
 title: 'Problem Set 7: FIR Linear Filters'
 uid: f156f77d-a861-85c0-fa16-acbadebe7a4e

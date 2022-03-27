@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 828bc116-ed5e-7b49-6689-fed462c15038
 resourcetype: Other
 title: BlurredImage1
 uid: a9e9dc5f-5c07-3415-459d-c756b71442c5

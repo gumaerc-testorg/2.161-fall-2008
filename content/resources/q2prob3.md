@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 56c582a1-8086-e962-081b-e26751dcb5d5
 resourcetype: Other
 title: Q2Prob3
 uid: 3f76dc03-f221-e120-8d0b-c30281d6b668

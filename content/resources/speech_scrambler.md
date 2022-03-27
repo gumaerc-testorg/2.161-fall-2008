@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 828bc116-ed5e-7b49-6689-fed462c15038
 resourcetype: Other
 title: Speech Scrambler
 uid: 4d21435d-5dd3-ea81-1cc0-1c0e585915c1

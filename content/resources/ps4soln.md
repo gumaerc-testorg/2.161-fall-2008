@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 828bc116-ed5e-7b49-6689-fed462c15038
 resourcetype: Document
 title: Solution of Problem Set 4
 uid: b6568404-aeff-fc6d-6085-3df55a05fc74
