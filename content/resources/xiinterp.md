@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting file for a lecture on continuous and discrete signal processing:
   Simple radix-2 data interpolation function based on cardinal reconstruction.'
-file: /media/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/1191b36e50d05fca0950e2a54ed41373_xiinterp.m
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/1191b36e50d05fca0950e2a54ed41373_xiinterp.m
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Other
 title: xiinterp
 uid: 1191b36e-50d0-5fca-0950-e2a54ed41373
 ---
+Supporting file for a lecture on continuous and discrete signal processing: Simple radix-2 data interpolation function based on cardinal reconstruction.
+

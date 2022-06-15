@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on FIR linear filters.
-file: /media/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/f156f77da86185c0fa16acbadebe7a4e_ps7.pdf
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/f156f77da86185c0fa16acbadebe7a4e_ps7.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -12,4 +12,10 @@ parent_uid: 828bc116-ed5e-7b49-6689-fed462c15038
 resourcetype: Document
 title: 'Problem Set 7: FIR Linear Filters'
 uid: f156f77d-a861-85c0-fa16-acbadebe7a4e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Problem set on FIR linear filters.
+

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting file for a lecture on continuous and discrete signal processing:
   Demonstration routine for Least-Squares FIR filter design.'
-file: /media/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/94d6038dc1b1fac6de25579e23e68430_LSQFilt.m
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/94d6038dc1b1fac6de25579e23e68430_LSQFilt.m
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Other
 title: LSQFilt
 uid: 94d6038d-c1b1-fac6-de25-579e23e68430
 ---
+Supporting file for a lecture on continuous and discrete signal processing: Demonstration routine for Least-Squares FIR filter design.
+
