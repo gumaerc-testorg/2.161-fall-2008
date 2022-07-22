@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, textbooks,
+  credit and content, prerequisites, grading, course ethics, and a list of topics
+  to be covered.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ba2a00db-81fe-8dd6-3c03-643a08ba45c5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -16,7 +25,7 @@ Proakis, John G., and Dmitris K. Manolakis. _Digital Signal Processing_. 4th ed.
 
 Oppenheim, Alan V., Ronald W. Schafer, and John R. Buck. _Discrete-Time Signal Processing_. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1999. ISBN: 9780137549207.
 
-These are recommended highly, but not mandatory. A list of other references is available in the [readings]({{< baseurl >}}/pages/readings).
+These are recommended highly, but not mandatory. A list of other references is available in the {{% resource_link b0f3cbd4-8d82-c2fc-f2d5-1503cb08b02f "readings" %}}.
 
 Credit and Content
 ------------------

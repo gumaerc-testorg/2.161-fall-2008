@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with the
+  schedule of lecture topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 4fa53234-4cad-e0ba-c94f-bc7ab3a7c7d0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -40,7 +49,7 @@ Practical applications of the Dirac delta function
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_01))
+({{% resource_link a6d15b07-b972-0f44-e4bc-2e9da4d3a5a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +67,7 @@ Sinusoidal response of LTI continuous systems
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_02))
+({{% resource_link 6a9dd6d7-fe4f-6102-720e-6dcded0c76e9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +87,7 @@ Aperiodic input functions — the Fourier transform
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_03))
+({{% resource_link b81bf801-e125-6e96-78a7-23342293972d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +109,7 @@ The convolution property
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_04))
+({{% resource_link b0a5f072-16a4-153e-8f61-60178f0ea764 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +131,7 @@ Frequency response and the pole-zero plot
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_05))
+({{% resource_link aa46a112-7460-310c-7506-654176a72ec0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +151,7 @@ Low-pass filter design
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_06))
+({{% resource_link c4037fd4-a6f2-44c3-9a4c-4a348f91aaed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +169,7 @@ Chebyshev filters
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_07))
+({{% resource_link 4dc3c856-841a-896b-bcb8-726c3dd4b41b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +189,7 @@ State-variable active filters
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_08))
+({{% resource_link 32157b1c-3d28-2eb8-49fb-da43d513c5e3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +207,7 @@ Introduction to discrete-time signal processing
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_09))
+({{% resource_link 264d28b7-2e04-d217-4036-7f9c4cc485aa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +225,7 @@ The discrete Fourier transform (DFT)
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_10))
+({{% resource_link 29345690-26a3-99e9-0625-97924c730a78 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +243,7 @@ The fast Fourier transform (FFT)
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_11))
+({{% resource_link 19d7d871-4e21-6839-29fd-97ead7e45e94 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +261,7 @@ Spectral leakage in the DFT and apodizing (windowing) functions
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_12))
+({{% resource_link 89fd8bda-9edb-126f-4e16-f3d0ba581109 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -272,7 +281,7 @@ The z-transform
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_13))
+({{% resource_link 13532904-b5dc-aa23-f42c-b00bb1b79ad4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -296,7 +305,7 @@ The Inverse z-Transform
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_14))
+({{% resource_link 22567058-e652-a3b2-ce90-ca62d8c5310f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -314,7 +323,7 @@ FIR low-pass filter design
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_15))
+({{% resource_link 425820cb-afde-6cdc-6236-a818e76a3f7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +343,7 @@ The zeros of a linear phase FIR filter
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_16))
+({{% resource_link b1566013-ede7-75ce-ce0e-cb8f1bf945bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -352,7 +361,7 @@ FIR filter design using optimization
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_17))
+({{% resource_link 2707fe52-6c49-cf42-c757-9c0def89108c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -370,7 +379,7 @@ The design of IIR filters
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_18))
+({{% resource_link 14f29be8-3ac3-8f11-eb1a-1bd5fdb6f5ea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -382,7 +391,7 @@ The design of IIR filters
 The design of IIR filters (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_19))
+({{% resource_link cc00ac6d-468d-c9dc-f223-8fc1d1a194d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -406,7 +415,7 @@ Coefficient sensitivity in direct form filters
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_20))
+({{% resource_link fa6343e8-a4a1-ef91-a99f-6190bcf493de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -424,7 +433,7 @@ Introduction to random signals
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_21))
+({{% resource_link ad5217a2-5a0d-c2fe-75e1-1a4d38c5bbb0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -444,7 +453,7 @@ Discrete-time correlation
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_22))
+({{% resource_link 5af5cf66-ca31-48b1-ef0c-6d94284a3382 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -456,7 +465,7 @@ Discrete-time correlation
 Non-parametric power spectral density estimation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_23))
+({{% resource_link c7d1951d-44fe-78ea-97d0-e14ea5158aee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -468,7 +477,7 @@ Non-parametric power spectral density estimation
 Least-squares filter design
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_24))
+({{% resource_link 1ba24945-9cac-547b-6260-26e1836daf49 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -480,7 +489,7 @@ Least-squares filter design
 Adaptive filtering
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_25))
+({{% resource_link 87d4cdc2-d6bd-c678-079a-8f07df21c562 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

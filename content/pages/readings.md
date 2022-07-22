@@ -1,10 +1,19 @@
 ---
 content_type: page
+description: This section provides the schedule of assigned readings and information
+  on the course textbooks.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b0f3cbd4-8d82-c2fc-f2d5-1503cb08b02f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Readings in this course are drawn from the course [handouts]({{< baseurl >}}/pages/study-materials) and the following texts:
+Readings in this course are drawn from the course {{% resource_link 1384b738-e0f5-a04c-f5ee-7fabd3121f27 "handouts" %}} and the following texts:
 
 \[P&M\] Proakis, John G., and Dmitris K. Manolakis. _Digital Signal Processing_. 4th ed. Upper Saddle River, NJ: Prentice Hall, 2006. ISBN: 9780131873742.
 
