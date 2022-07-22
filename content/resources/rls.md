@@ -4,6 +4,7 @@ description: Lecture handout on recursive-least-squares (RLS) adaptive filters.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/0908e93cb4f31eac9150b14c1ffdf328_rls.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture handout on recursive-least-squares (RLS) adaptive filters.
-

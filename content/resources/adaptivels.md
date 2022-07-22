@@ -6,6 +6,7 @@ description: "Lecture handout on the concepts of adaptive FIR \uFB01lters, where
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/d500ebd932a80d4417a1ba42fe7f5429_adaptivels.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture handout on the concepts of adaptive FIR ﬁlters, where the coeﬃcients are continually adjusted on a step-by-step basis during the ﬁltering operation.
-

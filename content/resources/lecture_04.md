@@ -7,6 +7,7 @@ file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/b0a5f07
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on the Fourier transform, the frequency response of a linear system defined directly from the Fourier transform, the relationship between the frequency response and the impulse response, and the convolution property.
-

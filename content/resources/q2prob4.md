@@ -5,6 +5,7 @@ file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/4bba448
 file_type: application/octet-stream
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file for a quiz on continuous and discrete signal processing.
-

@@ -5,6 +5,7 @@ file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/3c329c2
 file_type: audio/x-wav
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file for a problem set on continuous and discrete signal processing.
-

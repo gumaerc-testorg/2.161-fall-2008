@@ -5,6 +5,7 @@ description: Lecture handout on two-dimensional imaging and the two-dimensional 
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/7a85a7cc3e9a1b153290fd91ae76a924_freqdom.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture handout on two-dimensional imaging and the two-dimensional Fourier transform.
-

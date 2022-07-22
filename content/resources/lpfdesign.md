@@ -5,6 +5,7 @@ description: Lecture handout on low-pass filter design and transformation to oth
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/01a02bd64301037fa5b04e826e238b5a_lpfdesign.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture handout on low-pass filter design and transformation to other filter classes.
-

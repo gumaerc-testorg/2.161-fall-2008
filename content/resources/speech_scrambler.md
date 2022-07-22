@@ -6,6 +6,7 @@ file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/4d21435
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting MATLAB file for a problem set on continuous and discrete signal processing. (The ZIP file contains: 6 .m files and 7 .wav files.)
-

@@ -5,6 +5,7 @@ file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/15541fb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on analog filter design.
-
