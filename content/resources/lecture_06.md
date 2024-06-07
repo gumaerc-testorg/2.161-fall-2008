@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on poles and zeros of filter classes, the decibel, and
   low-pass filter design.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/c4037fd4a6f244c39a4c4a348f91aaed_lecture_06.pdf
+file_size: 200449
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

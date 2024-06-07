@@ -3,6 +3,7 @@ content_type: resource
 description: "Lecture handout on common structures for FIR and IIR \uFB01lters, and\
   \ MATLAB functions to implement these structures."
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/77c0d8b07bce5e739082e7e0a5ad3a54_filterstructure.pdf
+file_size: 176872
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

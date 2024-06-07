@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting file for a lecture on continuous and discrete signal processing:
   Demonstration adaptive FIR filter design and implementation.'
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/08d62128c05f60c3694c0dd3c470f0ee_LSadapt.m
+file_size: 1794
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

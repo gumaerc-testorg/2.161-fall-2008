@@ -4,6 +4,7 @@ description: 'Supporting file for a lecture on continuous and discrete signal pr
   Tutorial inverse FFT routine to demonstrate the Radix-2 inverseFFT using a forward
   FFT routine.'
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/54a75bbb74fc1ec42635cb04048313ee_ifftx.m
+file_size: 754
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

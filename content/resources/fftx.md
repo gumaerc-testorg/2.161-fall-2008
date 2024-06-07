@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting file for a lecture on continuous and discrete signal processing:
   Tutorial FFT routine to demonstrate the Radix-2 FFT with decimation in time.'
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/4ac5421b48aa8f52e3b682df6f4e3f41_fftx.m
+file_size: 1522
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
