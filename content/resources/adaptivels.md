@@ -4,6 +4,7 @@ description: "Lecture handout on the concepts of adaptive FIR \uFB01lters, where
   \ coe\uFB03cients are continually adjusted on a step-by-step basis during the \uFB01\
   ltering operation."
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/d500ebd932a80d4417a1ba42fe7f5429_adaptivels.pdf
+file_size: 934273
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on the correlation functions, linear system input/output
   relationships with random inputs, and discrete-time correlation.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/5af5cf66ca3148b1ef0c6d94284a3382_lecture_22.pdf
+file_size: 221667
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

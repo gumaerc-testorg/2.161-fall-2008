@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on time-domain digital signal processing. the discrete-time
   convolution sum, and the z-transform.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/13532904b5dcaa23f42cb00bb1b79ad4_lecture_13.pdf
+file_size: 271190
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

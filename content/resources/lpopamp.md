@@ -3,6 +3,7 @@ content_type: resource
 description: "Lecture handout on op-amp implementation of analog filters, state-variable\
   \ active \uFB01lters, design examples, and single op-amp second-order filter sections."
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/cce7e9ece3e590e44b219324706e3de9_lpopamp.pdf
+file_size: 245194
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

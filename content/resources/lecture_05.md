@@ -4,6 +4,7 @@ description: Lecture notes on the one-sided Laplace transform, the transfer func
   poles and zeros of the transfer function, frequency response, and the pole-zero
   plot.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/aa46a1127460310c7506654176a72ec0_lecture_05.pdf
+file_size: 262302
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

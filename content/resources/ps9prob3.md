@@ -4,6 +4,7 @@ description: 'Supporting MATLAB files for a problem set on continuous and discre
   signal processing. (The ZIP file contains: 2 .jpg files, 2 .mat files, and 1 .m
   file.)'
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/bf89c0b8241bc3716f132f874d43cd14_PS9Prob3.zip
+file_size: 13172744
 file_type: application/zip
 learning_resource_types:
 - Assignments

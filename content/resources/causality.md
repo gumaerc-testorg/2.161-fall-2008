@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture handout on the determining a system's causality from its frequency
   response.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/142cd928b3b3959721198872ab97b647_causality.pdf
+file_size: 129698
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
