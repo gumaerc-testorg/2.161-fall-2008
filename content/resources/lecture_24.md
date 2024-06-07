@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on least-squares filter design.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/1ba249459cac547b626026e1836daf49_lecture_24.pdf
+file_size: 282538
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

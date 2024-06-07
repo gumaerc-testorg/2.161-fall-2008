@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture handout on convolution.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/5578d343aefc2a4f8e22f3f52f25c953_convolution.pdf
+file_size: 254675
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

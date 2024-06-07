@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting MATLAB file for a problem set on continuous and discrete signal
   processing.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/a1508cbade7adbb4c77c1548b6ef4baa_BlurredImage2.mat
+file_size: 6455553
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments

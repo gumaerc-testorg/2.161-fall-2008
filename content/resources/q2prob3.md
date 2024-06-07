@@ -3,6 +3,7 @@ content_type: resource
 description: "Supporting file for a quiz on continuous and discrete signal processing.\r\
   \n"
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/3f76dc03f221e1208d0bc30281d6b668_Q2Prob3.mat
+file_size: 63298
 file_type: application/octet-stream
 learning_resource_types:
 - Exams

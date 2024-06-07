@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on the fast Fourier transform, spectral leakage in the
   DFT, and apodizing (windowing) functions.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/89fd8bda9edb126f4e16f3d0ba581109_lecture_12.pdf
+file_size: 238311
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

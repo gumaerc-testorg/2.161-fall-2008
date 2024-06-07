@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on continuous and discrete signal processing.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/07718c337e88193019e79c44e6a7c7fa_ps9.pdf
+file_size: 188243
 file_type: application/pdf
 learning_resource_types:
 - Assignments

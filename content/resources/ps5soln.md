@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on the discrete Fourier transform.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/25dabecb618416d5b9b91647cf6ab789_ps5soln.pdf
+file_size: 261200
 file_type: application/pdf
 learning_resource_types:
 - Assignments

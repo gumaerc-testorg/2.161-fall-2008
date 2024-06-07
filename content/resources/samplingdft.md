@@ -4,6 +4,7 @@ description: Lecture handout on sampling, reconstruction of a function from its 
   set, the digital impulse, the discrete Fourier transform (DFT), spectral leakage
   and apodizing (windowing) functions, and normalized discrete-time frequencies.
 file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/80ec6fb9bd027f30adcdc16577e8ab16_samplingdft.pdf
+file_size: 453056
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
