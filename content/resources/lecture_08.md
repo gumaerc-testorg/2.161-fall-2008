@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on second-order filter sections, transformation of low-pass
   filters to other classes, and state-variable active filters.
-file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/32157b1c3d282eb849fbda43d513c5e3_lecture_08.pdf
+file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/32157b1c3d282eb849fbda43d513c5e3_lecture_08.pdf
 file_size: 182137
 file_type: application/pdf
 learning_resource_types:
