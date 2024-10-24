@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on operational-amplifier based state-variable filters and
   discrete-time signal processing.
-file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/264d28b72e04d21740367f9c4cc485aa_lecture_09.pdf
+file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/264d28b72e04d21740367f9c4cc485aa_lecture_09.pdf
 file_size: 197558
 file_type: application/pdf
 learning_resource_types:

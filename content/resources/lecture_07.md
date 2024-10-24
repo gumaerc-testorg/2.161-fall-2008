@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Butterworth filter design and Chebyshev filters.
-file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/4dc3c856841a896bbcb8726c3dd4b41b_lecture_07.pdf
+file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/4dc3c856841a896bbcb8726c3dd4b41b_lecture_07.pdf
 file_size: 248347
 file_type: application/pdf
 learning_resource_types:
