@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on frequency-sampling filters and FIR filter design using
   optimization.
-file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/2707fe526c49cf42c7579c0def89108c_lecture_17.pdf
+file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/2707fe526c49cf42c7579c0def89108c_lecture_17.pdf
 file_size: 230778
 file_type: application/pdf
 learning_resource_types:
