@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture handout on two-dimensional imaging and the two-dimensional Fourier
   transform.
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/7a85a7cc3e9a1b153290fd91ae76a924_freqdom.pdf
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/7a85a7cc3e9a1b153290fd91ae76a924_freqdom.pdf
 file_size: 1583306
 file_type: application/pdf
 learning_resource_types: []

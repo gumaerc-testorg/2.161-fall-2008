@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture handout on a recursive realization of the frequency-sampling
   filter and a simple MATLAB linear-phase FIR function.
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/7e243f922113bde8caf18db32e31389e_freqsampfilt.pdf
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/7e243f922113bde8caf18db32e31389e_freqsampfilt.pdf
 file_size: 261566
 file_type: application/pdf
 learning_resource_types: []

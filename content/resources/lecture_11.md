@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the discrete Fourier transform and the fast Fourier
   transform.
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/19d7d8714e21683929fd97ead7e45e94_lecture_11.pdf
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/19d7d8714e21683929fd97ead7e45e94_lecture_11.pdf
 file_size: 196250
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting file for a lecture on continuous and discrete signal processing:
   Demonstration IIR Direct Form I filter implementation.'
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/57de83c48008b429386fd21964bce166_iirdf1.m
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/57de83c48008b429386fd21964bce166_iirdf1.m
 file_size: 1903
 file_type: text/plain
 learning_resource_types: []
