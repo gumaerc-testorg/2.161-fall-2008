@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on adaptive filtering.
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/87d4cdc2d6bdc678079a8f07df21c562_lecture_25.pdf
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/87d4cdc2d6bdc678079a8f07df21c562_lecture_25.pdf
 file_size: 728070
 file_type: application/pdf
 learning_resource_types:

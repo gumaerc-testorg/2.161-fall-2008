@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on the discrete Fourier transform.
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/339ee71cc9ab345d4e8153dbda20449d_ps5.pdf
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/339ee71cc9ab345d4e8153dbda20449d_ps5.pdf
 file_size: 147856
 file_type: application/pdf
 learning_resource_types:

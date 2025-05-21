@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on the discrete-time transfer function, the transfer function
   and the difference equation, z-plane stability criteria, the frequency response
   of discrete-time systems, and the inverse z-transform.
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/22567058e652a3b2ce90ca62d8c5310f_lecture_14.pdf
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/22567058e652a3b2ce90ca62d8c5310f_lecture_14.pdf
 file_size: 228717
 file_type: application/pdf
 learning_resource_types:

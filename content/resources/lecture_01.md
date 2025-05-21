@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes with an introduction to signal processing. Topics include
   properties of LTI continuous filters, the Dirac delta function, properties of the
   delta function, and practical applications of the Dirac delta function.
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/a6d15b07b9720f44e4bc2e9da4d3a5a2_lecture_01.pdf
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/a6d15b07b9720f44e4bc2e9da4d3a5a2_lecture_01.pdf
 file_size: 206861
 file_type: application/pdf
 learning_resource_types:

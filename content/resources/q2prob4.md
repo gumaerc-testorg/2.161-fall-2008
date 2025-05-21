@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for a quiz on continuous and discrete signal processing.
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/4bba448788f74df6a93db46dda83ee14_Q2Prob4.mat
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/4bba448788f74df6a93db46dda83ee14_Q2Prob4.mat
 file_size: 6455553
 file_type: application/octet-stream
 learning_resource_types:

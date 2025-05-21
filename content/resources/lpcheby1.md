@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting file for a lecture on continuous and discrete signal processing:
   Chebyshev Type 1 continuous lowpass filter design.'
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/80b98728216c88ee6b7b586982ab7db2_lpcheby1.m
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/80b98728216c88ee6b7b586982ab7db2_lpcheby1.m
 file_size: 2699
 file_type: text/plain
 learning_resource_types: []

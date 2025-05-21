@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture handout on fast Fourier transform (FFT), the inverse fast Fourier
   transform (IFFT), and MATLAB FFT routines.
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/2b3897bb64743815afae1543066ed4ff_fft.pdf
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/2b3897bb64743815afae1543066ed4ff_fft.pdf
 file_size: 278192
 file_type: application/pdf
 learning_resource_types: []
