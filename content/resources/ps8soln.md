@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on FIR linear filters.
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/05a994ea308ff0085c0f664e685f5583_ps8soln.pdf
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/05a994ea308ff0085c0f664e685f5583_ps8soln.pdf
 file_size: 620059
 file_type: application/pdf
 learning_resource_types:

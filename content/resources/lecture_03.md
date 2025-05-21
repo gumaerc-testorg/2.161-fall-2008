@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the Fourier series and transform, periodic input functions,
   and aperiodic input functions.
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/b81bf801e1256e9678a723342293972d_lecture_03.pdf
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/b81bf801e1256e9678a723342293972d_lecture_03.pdf
 file_size: 275740
 file_type: application/pdf
 learning_resource_types:

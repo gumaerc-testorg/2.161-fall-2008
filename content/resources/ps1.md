@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on convolution and Fourier transforms.
-file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/0308f5dcf805cc5e599e9957a3057999_ps1.pdf
+file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/0308f5dcf805cc5e599e9957a3057999_ps1.pdf
 file_size: 161915
 file_type: application/pdf
 learning_resource_types:
