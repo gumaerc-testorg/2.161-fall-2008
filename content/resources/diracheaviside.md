@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture handout on the Dirac delta and unit-step function, practical
   application of the Dirac delta function, and the heavyside (unit-step) function.
-file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/47b02986de2f17e6993e70b000a47b59_diracheaviside.pdf
+file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/47b02986de2f17e6993e70b000a47b59_diracheaviside.pdf
 file_size: 213751
 file_type: application/pdf
 learning_resource_types: []

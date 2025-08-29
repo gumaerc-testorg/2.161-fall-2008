@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture handout on low-pass filter design and transformation to other
   filter classes.
-file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/01a02bd64301037fa5b04e826e238b5a_lpfdesign.pdf
+file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/01a02bd64301037fa5b04e826e238b5a_lpfdesign.pdf
 file_size: 437679
 file_type: application/pdf
 learning_resource_types: []

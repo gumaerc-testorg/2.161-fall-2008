@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for a problem set on continuous and discrete signal processing.
-file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/0bf857915dbfb67f9fb09b9f7792c83a_PS8Raw.wav
+file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/0bf857915dbfb67f9fb09b9f7792c83a_PS8Raw.wav
 file_size: 186860
 file_type: audio/x-wav
 learning_resource_types:
