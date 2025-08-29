@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture handout on an alternative to the time-domain convolution operations
   describing the input-output operations of a linear processing system.
-file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/3ab918dbe6a0376dbd9216e404fee31b_fourier.pdf
+file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/3ab918dbe6a0376dbd9216e404fee31b_fourier.pdf
 file_size: 711190
 file_type: application/pdf
 learning_resource_types: []

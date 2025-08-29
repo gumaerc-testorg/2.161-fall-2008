@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting file for a lecture on continuous and discrete signal processing:
   Demonstration Recursive Least-Squares FIR filter design and implementation.'
-file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/1f9e9152e848414c0fe34d5d70744ca6_RLSFilt.m
+file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/1f9e9152e848414c0fe34d5d70744ca6_RLSFilt.m
 file_size: 1995
 file_type: text/plain
 learning_resource_types: []
