@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on continuous and discrete signal processing.
-file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/4659e7309ee4f514502c1b99b1d36579_ps2soln.pdf
+file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/4659e7309ee4f514502c1b99b1d36579_ps2soln.pdf
 file_size: 275566
 file_type: application/pdf
 learning_resource_types:

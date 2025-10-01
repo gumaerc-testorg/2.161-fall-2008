@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on FFT convolution for FIR filters and the design of IIR
   filters.
-file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/14f29be83ac38f11eb1a1bd5fdb6f5ea_lecture_18.pdf
+file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/14f29be83ac38f11eb1a1bd5fdb6f5ea_lecture_18.pdf
 file_size: 264832
 file_type: application/pdf
 learning_resource_types:

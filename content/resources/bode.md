@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on the response of linear systems to sinusoidal inputs.
-file: /courses/2-161-signal-processing-continuous-and-discrete-fall-2008/a9a6fa4c4c56513e2d5df392df6123ee_bode.pdf
+file: /ol-ocw-studio-app/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/a9a6fa4c4c56513e2d5df392df6123ee_bode.pdf
 file_size: 624332
 file_type: application/pdf
 learning_resource_types: []
